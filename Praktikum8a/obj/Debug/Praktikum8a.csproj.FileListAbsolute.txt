@@ -1,0 +1,10 @@
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\bin\Debug\Praktikum8a.exe.config
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\bin\Debug\Praktikum8a.exe
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\bin\Debug\Praktikum8a.pdb
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\obj\Debug\Praktikum8a.csproj.AssemblyReference.cache
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\obj\Debug\Praktikum8a.Form1.resources
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\obj\Debug\Praktikum8a.Properties.Resources.resources
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\obj\Debug\Praktikum8a.csproj.GenerateResource.cache
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\obj\Debug\Praktikum8a.csproj.CoreCompileInputs.cache
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\obj\Debug\Praktikum8a.exe
+C:\Users\Bluez\source\repos\Praktikum8a\Praktikum8a\obj\Debug\Praktikum8a.pdb
